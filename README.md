@@ -28,13 +28,3 @@
 
 
 
-Telefon ───────────────┐
-                       ▼
-Cardputer ◄──────► Habitat TV / Chromecast
-     │                 │
-     └──── lokalna sieć┘
-
-PC opcjonalny, może być wyłączony
-
-
-
